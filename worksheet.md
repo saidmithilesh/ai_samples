@@ -1,7 +1,7 @@
 # **Biology Worksheet: Prokaryotic Cells**
 ## **Class 11 - CBSE Curriculum**
-### **Name:_________________**  
-### **Date:_________________**
+**Name:_________________**  
+**Date:_________________**
 
 ### **Part A: True or False**
 
