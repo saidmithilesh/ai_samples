@@ -71,7 +71,11 @@
 * Student drawings
 * Class participation
 
-<div style="page-break-after: always;"></div>
+<div style="page-break-after: always;"></div>  
+
+
+
+    
 
 **Resources:**
 
@@ -85,6 +89,10 @@
 
 <div style="page-break-after: always;"></div>
 
+
+
+
+    
 *Videos:*
 
 - [Video 1](https://www.youtube.com/watch?v=URUJD5NEXC8)
@@ -95,6 +103,9 @@
 
 <div style="page-break-after: always;"></div>
 
+
+
+  
 # **Biology Worksheet: Prokaryotic Cells**
 
 ## **Class 11 - CBSE Curriculum**
