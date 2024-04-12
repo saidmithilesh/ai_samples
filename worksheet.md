@@ -3,7 +3,7 @@
 ### **Name:_________________**  
 ### **Date:_________________**
 
-## **Part A: True or False**
+### **Part A: True or False**
 
 Indicate whether the following statements are true or false by circling your choice.
 
@@ -22,7 +22,7 @@ Indicate whether the following statements are true or false by circling your cho
 5. **All prokaryotic cells are harmful to humans.**  
    True / False
 
-## **Part B: Short Answer Questions**
+### **Part B: Short Answer Questions**
 
 1. **What is the significance of the cell membrane in prokaryotic cells?**
 
@@ -34,16 +34,16 @@ Indicate whether the following statements are true or false by circling your cho
 
 5. **Can prokaryotic cells have organelles? Explain your answer.**
 
-## **Part C: Discussion**
+### **Part C: Discussion**
 
 Discuss with a partner how prokaryotic cells are essential to life on Earth. Consider their roles in various ecosystems and human health. Prepare to share your discussion points with the class.
 
-## **Part D: Reflection**
+### **Part D: Reflection**
 
 Write a short paragraph on one new thing you learned about prokaryotic cells and why it's interesting to you.
 
 ---
 
-## **Feedback**
+### **Feedback**
 
 **Teacher's comments:**
