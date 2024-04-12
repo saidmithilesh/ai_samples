@@ -1,11 +1,7 @@
 # **Biology Worksheet: Prokaryotic Cells**
-
 ## **Class 11 - CBSE Curriculum**
-
 ### **Name:_________________**  
 ### **Date:_________________**
-
----
 
 ## **Part A: True or False**
 
@@ -26,8 +22,6 @@ Indicate whether the following statements are true or false by circling your cho
 5. **All prokaryotic cells are harmful to humans.**  
    True / False
 
----
-
 ## **Part B: Short Answer Questions**
 
 1. **What is the significance of the cell membrane in prokaryotic cells?**
@@ -40,13 +34,9 @@ Indicate whether the following statements are true or false by circling your cho
 
 5. **Can prokaryotic cells have organelles? Explain your answer.**
 
----
-
 ## **Part C: Discussion**
 
 Discuss with a partner how prokaryotic cells are essential to life on Earth. Consider their roles in various ecosystems and human health. Prepare to share your discussion points with the class.
-
----
 
 ## **Part D: Reflection**
 
@@ -57,7 +47,3 @@ Write a short paragraph on one new thing you learned about prokaryotic cells and
 ## **Feedback**
 
 **Teacher's comments:**
-
----
-
-<div style="page-break-after: always;"></div>
